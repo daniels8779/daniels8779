@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @daniels8779
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI related open-source projects
+- 📫 How to reach me daniels8779ATGMAIL
+
+
+<!---
+daniels8779/daniels8779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
