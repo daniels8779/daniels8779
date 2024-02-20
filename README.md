@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniels8779
-- 👀 I’m interested in computer science
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI related open-source projects
 - 📫 How to reach me daniels8779ATGMAIL
