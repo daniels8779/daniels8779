@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniels8779
+- 👋 Hi, everyone, I’m @daniels8779
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning about Sora. It is amazing.
 - 💞️ I’m looking to collaborate on AI related open-source projects
